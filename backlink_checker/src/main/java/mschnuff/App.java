@@ -27,6 +27,7 @@ public class App {
         // we parse the file to get the backlinks
         ArrayList<Backlink> seobilityBacklinks = getBacklinks(seobilityFilename); // backlinks are stored in a custom
                                                                                    // data type
+        ArrayList<Backlink> seobilityBacklinks2 = getBacklinks(seobilityFilename2);
         // we will store our response codes in here
         HashMap<Integer, Integer> responseCodes = new HashMap<Integer, Integer>(); // second number stands for the
                                                                                    // amount of times a response code
@@ -36,21 +37,20 @@ public class App {
 
         String[] originalDomain2 = { "http://www.it-sicherheit.de/", "https://www.it-sicherheit.de/" }; // domain of our
                                                                                                         // homepage
-        String replaceDomain2 = "http://10.0.12.198/"; // current location of our new homepage
+        String replaceDomain2 = "http://test.it-sicherheit.de/"; // current location of our new homepage
         boolean replace = true; // replace the Domain?
-        int currentTimeout = 5000; // timeout
-
+        int currentTimeout = 5000; // timeout       
         String outputPath = createOutputFile("output.txt");
 
         // tests backlinks and generates output
-        generateOutput(seobilityBacklinks, originalDomain, replaceDomain, responseCodes, replace, currentTimeout,
+        generateOutput(seobilityBacklinks2, originalDomain2, replaceDomain2, responseCodes, replace, currentTimeout,
                 outputPath);
 
     }
 
     public static String createOutputFile(String outFile) {
         String path = "";
-        String user_dir = System.getProperty("user.dir") + "/backlink_checker/";
+        String user_dir = System.getProperty("user.dir") + "/backlink2/backlink_checker/";
         path = user_dir + outFile;
         // output file
         try {
@@ -206,7 +206,7 @@ public class App {
 
     public static ArrayList<Backlink> getBacklinks(String filename) {
 
-        String user_dir = System.getProperty("user.dir") + "/backlink_checker/";
+        String user_dir = System.getProperty("user.dir") + "/backlink2/backlink_checker/";
         String path = user_dir + filename;
         String line = "initial string...";
         BufferedReader reader;
