@@ -1,0 +1,83 @@
+Protokoll (15.06.2023)
+nächster Termin 10.07.2023 - 13:00-15:00 Uhr
+
+
+Testen:
+Internes Testen soll gegen Ende Juni beginnen.
+Das Testen soll so aussehen, das einzelne Team-Mitglieder die Funktionalitäten für die sie verantwortlich sind gezielt überprüfen. 
+-----------------------------
+
+
+Technische Probleme:
+Mediathek läd langsam (auch beim Löschen). - Herr Kappels / Herr Kubis überprüfen Zustand des Servers.
+
+Links, die auf die alte Ip-Adresse zeigen müssen überprüft werden. Jeder überprüft Bereich für den er verantwortlich ist.
+-----------------------------
+
+
+Glossar einpfegen:
+- Frau Kaynak + Herr Kappels
+-----------------------------
+
+
+Design:
+Anbieter-Einträge vervollständigen (siehe alte Webseite). Produkte, Kompetenzen etc. - Frau Kurz
+mit Logo + Link
+
+Whitepaper-Reiter im Hauptmenü mit separaten Seiten. Die Whitepaper-PDFs sollen mit den zugehörigen Kompetenzen verknüpft sein.
+
+Artikel-Seite Fehler beheben, sowie Template erstellen. + Pressemitteilung - Frau Kurz / Frau Kaynak 
+Blogeinträge schmaler. Im Design anpassen an Anbieter-Übersicht
+
+Sponsoren (Addressen von LinkedIn heraussuchen) / Slogans für Anbieter / Stellenangebote hinzufügen? (niedrige Priorität) 
+
+Preisliste verschönern.
+-----------------------------
+
+
+Inhalt:
+- Analyse-Tool (Analytics) (nur für Premiumkunden) verfügbar machen - Albers etc
+- Mediadaten.PDF typo-filemanager owncloud-archiv. - Kappels
+- Datenschutzerklärung von e-Recht24.de
+- Veranstaltungen aus dem Frontend heraus einpflegbar machen - Herr Diab
+- Ratgeber Seite erstellen 
+- Videos vom BSI/ bzw. selbst erstellte Inhalte auf Ratgeber-Seiten einpflegen -
+- SecAware Inhalte begutachten - 
+-----------------------------
+
+
+Backlinks:
+Redirects einrichten für verschiedene im Internet gespeicherte Backlinks - Kappels
+-----------------------------
+
+
+Analyse-Tool:
+- Dashboard auf den Webserver übertragen (Kubis + Albers etc.)
+- externe Links auf Anbieter-Seite
+- keine externen Verlinkungen in Artikeln/Blogs/Pressemitteilungen
+- 1 Autoren-Bild je Anbieter einstellbar
+- Dashboard nur für jeweilige User sichtbar machen.
+-----------------------------
+
+
+Suchfunktion:
+Suchfunktion muss mit tags getestet werden und mit Suchbegriffen.
+-----------------------------
+
+
+Firmen:
+Liste mit 1300 Firmen (teilweise redundant) aus verschiedenen Quellen.
+- wichtigste Firmen heraussuchen
+- Rundmails zur Anmeldung
+-----------------------------
+
+
+Datum:
+für Feedback (Ende Juni)
+Eintragen für Anbieter (noch nicht bekannt)
+-----------------------------
+
+
+Mittelständische Unternehmen 
+(Förderung)
+Antrag schreiben - Herr Collak
