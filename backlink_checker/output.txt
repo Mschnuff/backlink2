@@ -4,23 +4,23 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews'
 (Die exakte Quell-URL lautet: 'https://www.internet-sicherheit.de/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:11 GMT
+Date = Fri, 16 Jun 2023 11:04:29 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Link = <http://test.it-sicherheit.de/wp-json/>; rel="https://api.w.org/"
+Link = <http://test.it-sicherheit.de/wp-json/wp/v2/pages/11321>; rel="alternate"; type="application/json"
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'nifis.de' (Wichtigkeit der Domäne: 33)...
 (Die exakte Quell-URL lautet: 'http://www.nifis.de/news/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:13 GMT
+Date = Fri, 16 Jun 2023 11:04:31 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -36,48 +36,48 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/fileadmin/use
 (Die exakte Quell-URL lautet: 'https://netzpolitik.org/2011/interne-dokumente-des-auswartigen-amtes-zur-anderung-der-open-source-strategie/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:14 GMT
+Date = Fri, 16 Jun 2023 11:04:32 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Link = <http://test.it-sicherheit.de/wp-json/>; rel="https://api.w.org/"
+Link = <http://test.it-sicherheit.de/wp-json/wp/v2/pages/13800>; rel="alternate"; type="application/json"
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/magazin/fachzeitschrift' aufzubauen. Der Backlink befindet sich auf: 'it-defense.de' (Wichtigkeit der Domäne: 28)...
 (Die exakte Quell-URL lautet: 'https://www.it-defense.de/archiv/it-defense-2015/programm/index.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:15 GMT
+Date = Fri, 16 Jun 2023 11:04:32 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews/iframe' aufzubauen. Der Backlink befindet sich auf: 'kraus-computersysteme.de' (Wichtigkeit der Domäne: 28)...
 (Die exakte Quell-URL lautet: 'https://www.kraus-computersysteme.de/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:16 GMT
+Date = Fri, 16 Jun 2023 11:04:33 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Expires = Fri, 16 Jun 2023 12:04:33 GMT
+Cache-Control = max-age=3600
+code = 301
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = Moved Permanently
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/news/secure-remote-work-nachholbedarf-beim-thema-sicheres-homeoffice-1/&nbsp' aufzubauen. Der Backlink befindet sich auf: 'syracom.de' (Wichtigkeit der Domäne: 28)...
@@ -85,7 +85,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/news/secure-remot
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:42:17 GMT
+Date = Fri, 16 Jun 2023 11:04:33 GMT
 Location = http://it-sicherheit.de/news/secure-remote-work-nachholbedarf-beim-thema-sicheres-homeoffice-1/&nbsp/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -100,7 +100,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://www.itandmore.eu/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:19 GMT
+Date = Fri, 16 Jun 2023 11:04:36 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -116,23 +116,23 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/master-studie
 (Die exakte Quell-URL lautet: 'https://norbert-pohlmann.com/glossar-cyber-sicherheit/cyber-sicherheit-2/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:20 GMT
+Date = Fri, 16 Jun 2023 11:04:36 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Expires = Fri, 16 Jun 2023 12:04:36 GMT
+Cache-Control = max-age=3600
+code = 301
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = Moved Permanently
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'kompetenznetze-untermain.de' (Wichtigkeit der Domäne: 25)...
 (Die exakte Quell-URL lautet: 'https://www.kompetenznetze-untermain.de/kompetenznetze/informationstechnologie/it-sicherheit/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:22 GMT
+Date = Fri, 16 Jun 2023 11:04:38 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -148,39 +148,39 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/master-studie
 (Die exakte Quell-URL lautet: 'https://www.w-hs.de/internet-sicherheit-ge/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:23 GMT
+Date = Fri, 16 Jun 2023 11:04:39 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Expires = Fri, 16 Jun 2023 12:04:39 GMT
+Cache-Control = max-age=3600
+code = 301
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = Moved Permanently
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/it_sicherheitstipps/tipp/haftung-fuer-nicht-eigene-blog-kommentare-1' aufzubauen. Der Backlink befindet sich auf: 'erdbeerchili.de' (Wichtigkeit der Domäne: 25)...
 (Die exakte Quell-URL lautet: 'https://erdbeerchili.de/schulungen/wolfenbuettel-socialmedia/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:24 GMT
+Date = Fri, 16 Jun 2023 11:04:40 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Link = <http://test.it-sicherheit.de/wp-json/>; rel="https://api.w.org/"
+Link = <http://test.it-sicherheit.de/wp-json/wp/v2/pages/10543>; rel="alternate"; type="application/json"
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'ihk-bonn.de' (Wichtigkeit der Domäne: 24)...
 (Die exakte Quell-URL lautet: 'https://www.ihk-bonn.de/innovation-und-umwelt/it-sicherheit-e-commerce/it-sicherheit-tipps')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:26 GMT
+Date = Fri, 16 Jun 2023 11:04:42 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -196,7 +196,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://radioigel.at/bist-du-auch-taeglich-im-internet/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:28 GMT
+Date = Fri, 16 Jun 2023 11:04:44 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -212,23 +212,23 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/stellenanzeig
 (Die exakte Quell-URL lautet: 'https://powermedia.de/karrierenetzwerk/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:29 GMT
+Date = Fri, 16 Jun 2023 11:04:45 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Link = <http://test.it-sicherheit.de/wp-json/>; rel="https://api.w.org/"
+Link = <http://test.it-sicherheit.de/wp-json/wp/v2/pages/1684>; rel="alternate"; type="application/json"
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'ihk-siegen.de' (Wichtigkeit der Domäne: 23)...
 (Die exakte Quell-URL lautet: 'https://www.ihk-siegen.de/innovation-umwelt-und-energie/it-und-multimedia/it-sicherheit/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:31 GMT
+Date = Fri, 16 Jun 2023 11:04:47 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -244,39 +244,39 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews/
 (Die exakte Quell-URL lautet: 'https://www.entermyworld.de/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:32 GMT
+Date = Fri, 16 Jun 2023 11:04:48 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Expires = Fri, 16 Jun 2023 12:04:48 GMT
+Cache-Control = max-age=3600
+code = 301
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = Moved Permanently
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews/was_ist_securitynews' aufzubauen. Der Backlink befindet sich auf: 'grimme-online-award.de' (Wichtigkeit der Domäne: 22)...
 (Die exakte Quell-URL lautet: 'https://www.grimme-online-award.de/archiv/2014/liste-der-eingegangenen-vorschlaege/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:33 GMT
+Date = Fri, 16 Jun 2023 11:04:48 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'susii.nrw' (Wichtigkeit der Domäne: 22)...
 (Die exakte Quell-URL lautet: 'https://www.susii.nrw/linksammlung/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:36 GMT
+Date = Fri, 16 Jun 2023 11:04:50 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -292,103 +292,103 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/it_s
 (Die exakte Quell-URL lautet: 'https://www.economy4mankind.org/usa-arbeitslosenstatistik-armutsstatistik-manipuliert/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:37 GMT
+Date = Fri, 16 Jun 2023 11:04:51 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews/securitynews_auf_ihrer_website' aufzubauen. Der Backlink befindet sich auf: 'stadt-bremerhaven.de' (Wichtigkeit der Domäne: 22)...
 (Die exakte Quell-URL lautet: 'https://stadt-bremerhaven.de/aktuelle-sicherheitsluecken-im-ueberblick-dank-securitynews-fuer-ios-und-android/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:38 GMT
+Date = Fri, 16 Jun 2023 11:04:51 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews/iframe' aufzubauen. Der Backlink befindet sich auf: 'ruettinger-it.de' (Wichtigkeit der Domäne: 21)...
 (Die exakte Quell-URL lautet: 'https://www.ruettinger-it.de/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:39 GMT
+Date = Fri, 16 Jun 2023 11:04:51 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Expires = Fri, 16 Jun 2023 12:04:51 GMT
+Cache-Control = max-age=3600
+code = 301
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = Moved Permanently
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/security' aufzubauen. Der Backlink befindet sich auf: 'hwk-ufr.de' (Wichtigkeit der Domäne: 21)...
 (Die exakte Quell-URL lautet: 'https://www.hwk-ufr.de/artikel/it-sicherheit-im-handwerk-78,3412,5547.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:40 GMT
+Date = Fri, 16 Jun 2023 11:04:54 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Link = <http://test.it-sicherheit.de/wp-json/>; rel="https://api.w.org/"
+Link = <http://test.it-sicherheit.de/wp-json/wp/v2/pages/25>; rel="alternate"; type="application/json"
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/stellenanzeigen/job_suchen/?no_cache=1' aufzubauen. Der Backlink befindet sich auf: 'ins-ziel.de' (Wichtigkeit der Domäne: 21)...
 (Die exakte Quell-URL lautet: 'https://www.ins-ziel.de/stellenboersen.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:41 GMT
+Date = Fri, 16 Jun 2023 11:04:54 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/it_sicherheitstipps/tipp/sicher-einkaufen-im-internet' aufzubauen. Der Backlink befindet sich auf: 'saechsische.de' (Wichtigkeit der Domäne: 20)...
 (Die exakte Quell-URL lautet: 'https://www.saechsische.de/worauf-man-beim-online-shopping-achten-sollte-933.html?utm_source=szonline')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:42 GMT
+Date = Fri, 16 Jun 2023 11:04:54 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/checklisten_it_sicherheit/checkliste_it_sicherheit/?tx_ttnews[tt_news]=768&cHash=f1a85d4c4bf567c3239ce979f4b8926d' aufzubauen. Der Backlink befindet sich auf: 'detektor.fm' (Wichtigkeit der Domäne: 20)...
 (Die exakte Quell-URL lautet: 'https://detektor.fm/kultur/anwalt-als-online-spam-filter-wie-effektiv-sind-abmahnungen-im-netz/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:43 GMT
+Date = Fri, 16 Jun 2023 11:04:55 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -404,7 +404,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://www.archiware.com/de/press-voices')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:42:45 GMT
+Date = Fri, 16 Jun 2023 11:04:57 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -419,21 +419,24 @@ responseMessage = OK
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'hs-augsburg.de' (Wichtigkeit der Domäne: 20)...
 (Die exakte Quell-URL lautet: 'http://mebib-intern.informatik.hs-augsburg.de/fai/informatik/spezialthemen/sicherheit.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
+Server = nginx/1.14.1
+Date = Fri, 16 Jun 2023 11:04:59 GMT
+Content-Type = text/html; charset=UTF-8
+Transfer-Encoding = chunked
+Connection = keep-alive
+X-Powered-By = PHP/8.0.28
+Link = <http://test.it-sicherheit.de/wp-json/>; rel="https://api.w.org/"
+Link = <http://test.it-sicherheit.de/wp-json/wp/v2/pages/25>; rel="alternate"; type="application/json"
+code = 200
+mimeType = text/html; charset=UTF-8
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/?no_cache=1' aufzubauen. Der Backlink befindet sich auf: 'uni-weimar.de' (Wichtigkeit der Domäne: 20)...
 (Die exakte Quell-URL lautet: 'https://www.uni-weimar.de/de/universitaet/struktur/zentrale-einrichtungen/scc-rechenzentrum/hilfe-support-center/informationsquellen/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:43:44 GMT
+Date = Fri, 16 Jun 2023 11:05:02 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -449,7 +452,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://www.bildungsserver.de/zeitschrift-weiterbildung-1-2017-linkempfehlungen-zum-schwerpunkt-digitale-kompetenz-chancen-und-risiken-der-virtuellen-welt--11770-de.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:44:35 GMT
+Date = Fri, 16 Jun 2023 11:05:04 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -465,23 +468,23 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews/
 (Die exakte Quell-URL lautet: 'https://www.watson.ch/digital/apple/987948832-das-sind-die-10-gefaehrlichsten-programme-die-du-auf-deinem-windows-pc-oder-mac-haben-kannst')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:44:36 GMT
+Date = Fri, 16 Jun 2023 11:05:04 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/it_sicherheitstipps' aufzubauen. Der Backlink befindet sich auf: 'computerwoche.de' (Wichtigkeit der Domäne: 19)...
 (Die exakte Quell-URL lautet: 'https://www.computerwoche.de/a/selbst-schuld,3327016')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:44:37 GMT
+Date = Fri, 16 Jun 2023 11:05:05 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -497,7 +500,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://www.archiware.de/de/press-voices')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:44:40 GMT
+Date = Fri, 16 Jun 2023 11:05:07 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -513,23 +516,23 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/master-studie
 (Die exakte Quell-URL lautet: 'https://chrisdietri.ch/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:44:41 GMT
+Date = Fri, 16 Jun 2023 11:05:07 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Expires = Fri, 16 Jun 2023 12:05:07 GMT
+Cache-Control = max-age=3600
+code = 301
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = Moved Permanently
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'danube.net' (Wichtigkeit der Domäne: 18)...
 (Die exakte Quell-URL lautet: 'http://www.danube.net/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:44:43 GMT
+Date = Fri, 16 Jun 2023 11:05:09 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -546,7 +549,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:44:43 GMT
+Date = Fri, 16 Jun 2023 11:05:10 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -561,7 +564,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://www.polizeiinformatik.de/links.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:44:45 GMT
+Date = Fri, 16 Jun 2023 11:05:12 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -577,7 +580,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://www.woelky.net/leistungsprofil.php')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:44:47 GMT
+Date = Fri, 16 Jun 2023 11:05:14 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -593,7 +596,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://www.digitaleschweiz.ch/markt/security-finder-schweiz/security_tools_links/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:44:49 GMT
+Date = Fri, 16 Jun 2023 11:05:16 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -609,32 +612,32 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/news/tatort-d
 (Die exakte Quell-URL lautet: 'https://www.hubit.de/presseartikel-im-april/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:44:50 GMT
+Date = Fri, 16 Jun 2023 11:05:16 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews/iframe' aufzubauen. Der Backlink befindet sich auf: 'aidea.de' (Wichtigkeit der Domäne: 17)...
 (Die exakte Quell-URL lautet: 'https://www.aidea.de/datenschutz')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:44:51 GMT
+Date = Fri, 16 Jun 2023 11:05:17 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Expires = Fri, 16 Jun 2023 12:05:17 GMT
+Cache-Control = max-age=3600
+code = 301
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = Moved Permanently
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'wayranks.com' (Wichtigkeit der Domäne: 16)...
@@ -642,7 +645,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:44:51 GMT
+Date = Fri, 16 Jun 2023 11:05:17 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -658,7 +661,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:44:52 GMT
+Date = Fri, 16 Jun 2023 11:05:17 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -673,32 +676,32 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews'
 (Die exakte Quell-URL lautet: 'http://www.forschungstag-it-sicherheit.nrw/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:44:53 GMT
+Date = Fri, 16 Jun 2023 11:05:17 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews/securitynews_auf_ihrer_website' aufzubauen. Der Backlink befindet sich auf: 'itsicherheitsblog.de' (Wichtigkeit der Domäne: 16)...
 (Die exakte Quell-URL lautet: 'https://www.itsicherheitsblog.de/archives/cat_awareness.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:44:54 GMT
+Date = Fri, 16 Jun 2023 11:05:18 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'prolinksdirectory.com' (Wichtigkeit der Domäne: 16)...
@@ -706,7 +709,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:44:54 GMT
+Date = Fri, 16 Jun 2023 11:05:18 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -722,7 +725,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:44:54 GMT
+Date = Fri, 16 Jun 2023 11:05:18 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -738,7 +741,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:44:54 GMT
+Date = Fri, 16 Jun 2023 11:05:18 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -753,16 +756,16 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/news/e-mail-b
 (Die exakte Quell-URL lautet: 'https://www.proofpoint.com/de/news?page=20')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:44:55 GMT
+Date = Fri, 16 Jun 2023 11:05:19 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'webranksdirectory.com' (Wichtigkeit der Domäne: 16)...
@@ -770,7 +773,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:44:55 GMT
+Date = Fri, 16 Jun 2023 11:05:19 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -785,39 +788,39 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/news/trends-i
 (Die exakte Quell-URL lautet: 'https://www.ivanti.com/de/company/news')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:44:56 GMT
+Date = Fri, 16 Jun 2023 11:05:19 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews/securitynews_auf_ihrer_website' aufzubauen. Der Backlink befindet sich auf: 'mit-blog.de' (Wichtigkeit der Domäne: 15)...
 (Die exakte Quell-URL lautet: 'http://mit-blog.de/sicher-im-internet-unterwegs-dank-securitynews-app/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:44:57 GMT
+Date = Fri, 16 Jun 2023 11:05:20 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/index.php?id=614' aufzubauen. Der Backlink befindet sich auf: 'nauticschule-hann-muenden.de' (Wichtigkeit der Domäne: 15)...
 (Die exakte Quell-URL lautet: 'http://www.nauticschule-hann-muenden.de/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:44:59 GMT
+Date = Fri, 16 Jun 2023 11:05:21 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -833,7 +836,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'http://www.computer-zahn.de/links.htm')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:45:01 GMT
+Date = Fri, 16 Jun 2023 11:05:23 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -849,23 +852,23 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/it_s
 (Die exakte Quell-URL lautet: 'https://www.motocms.com/blog/de/wertvolle-tipps-zur-optimierung-eures-online-shops/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:45:02 GMT
+Date = Fri, 16 Jun 2023 11:05:23 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'koalahilfe.de' (Wichtigkeit der Domäne: 15)...
 (Die exakte Quell-URL lautet: 'https://sicherheit.koalahilfe.de/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:45:04 GMT
+Date = Fri, 16 Jun 2023 11:05:25 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -881,7 +884,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://www.susii.koeln/de/projekt/linksammlung.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:45:06 GMT
+Date = Fri, 16 Jun 2023 11:05:27 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -897,39 +900,39 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/news/european
 (Die exakte Quell-URL lautet: 'https://www.trojaner-info.de/business-security/aktuell/europaeische-cyber-security-organisation-gegruendet.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:45:07 GMT
+Date = Fri, 16 Jun 2023 11:05:28 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews' aufzubauen. Der Backlink befindet sich auf: 'bcp-it.de' (Wichtigkeit der Domäne: 14)...
 (Die exakte Quell-URL lautet: 'https://bcp-it.de/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:45:08 GMT
+Date = Fri, 16 Jun 2023 11:05:28 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'forenarchiv.de' (Wichtigkeit der Domäne: 14)...
 (Die exakte Quell-URL lautet: 'https://forenarchiv.de/freeboard/board/show_thread.php?userid=3391&topic=1293989&forumid=59898')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:45:29 GMT
+Date = Fri, 16 Jun 2023 11:05:30 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -946,7 +949,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:45:29 GMT
+Date = Fri, 16 Jun 2023 11:05:30 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -960,21 +963,24 @@ responseMessage = Temporary Redirect
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/securitynews' aufzubauen. Der Backlink befindet sich auf: 'gindat.de' (Wichtigkeit der Domäne: 14)...
 (Die exakte Quell-URL lautet: 'https://www.gindat.de/news/detail/sicherheitsupdate-fuer-mozilla-firefox-und-seamonkey.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
+Server = nginx/1.14.1
+Date = Fri, 16 Jun 2023 11:05:31 GMT
+Content-Type = text/html; charset=UTF-8
+Transfer-Encoding = chunked
+Connection = keep-alive
+X-Powered-By = PHP/8.0.28
+Expires = Wed, 11 Jan 1984 05:00:00 GMT
+Cache-Control = no-cache, must-revalidate, max-age=0
+code = 404
+mimeType = text/html; charset=UTF-8
+responseMessage = Not Found
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'anmelder.ch' (Wichtigkeit der Domäne: 14)...
 (Die exakte Quell-URL lautet: 'http://www.anmelder.ch/web/auskunft/branchenbuch-25-2.htm')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:28 GMT
+Date = Fri, 16 Jun 2023 11:05:33 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -991,7 +997,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:46:28 GMT
+Date = Fri, 16 Jun 2023 11:05:34 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -1007,7 +1013,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:46:29 GMT
+Date = Fri, 16 Jun 2023 11:05:34 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -1023,7 +1029,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:46:29 GMT
+Date = Fri, 16 Jun 2023 11:05:34 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -1038,7 +1044,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/master-studieren/
 (Die exakte Quell-URL lautet: 'https://www.studycheck.de/studium/internet-sicherheit/westfaelische-hs-9194')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:46:29 GMT
+Date = Fri, 16 Jun 2023 11:05:34 GMT
 Link = <https://it-sicherheit.de/master-studieren/wp-json/>; rel="https://api.w.org/"
 Link = <https://it-sicherheit.de/master-studieren/wp-json/wp/v2/pages/149>; rel="alternate"; type="application/json"
 Link = <https://it-sicherheit.de/master-studieren/>; rel=shortlink
@@ -1054,7 +1060,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://www.corics.com/en/consulting/angebote/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:32 GMT
+Date = Fri, 16 Jun 2023 11:05:37 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1071,7 +1077,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/news/sicherheitsf
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:46:32 GMT
+Date = Fri, 16 Jun 2023 11:05:37 GMT
 Location = http://it-sicherheit.de/news/sicherheitsfragen-in-zeiten-von-remote-work-it-experten-antworten/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -1086,7 +1092,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews/
 (Die exakte Quell-URL lautet: 'https://blog.rainergerling.de/archives/cat_awareness.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:32 GMT
+Date = Fri, 16 Jun 2023 11:05:38 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1102,7 +1108,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'http://www.goldmedia.com/blog/Goldmedia-Tag/it-sicherheit/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:35 GMT
+Date = Fri, 16 Jun 2023 11:05:40 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1118,7 +1124,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://handwerkdigital.org/index.php/impressum1/2-uncategorised/1-it-sicherheit')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:37 GMT
+Date = Fri, 16 Jun 2023 11:05:42 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1134,55 +1140,55 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/news/fast-30-
 (Die exakte Quell-URL lautet: 'https://muenchen.digital/blog/welt-passwort-tag/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:38 GMT
+Date = Fri, 16 Jun 2023 11:05:42 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/startseite/news/anstieg-bei-spam-phishing-und-malware-e-mails' aufzubauen. Der Backlink befindet sich auf: 'avalia-gruenderlounge.de' (Wichtigkeit der Domäne: 10)...
 (Die exakte Quell-URL lautet: 'https://avalia-gruenderlounge.de/e-mail-marketing/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:39 GMT
+Date = Fri, 16 Jun 2023 11:05:42 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/master-studieren' aufzubauen. Der Backlink befindet sich auf: 'servicemeister.org' (Wichtigkeit der Domäne: 10)...
 (Die exakte Quell-URL lautet: 'https://www.servicemeister.org/2021/09/03/institut-fuer-internet-sicherheit-ifis-kuenstliche-intelligenz-und-ihre-schwaechen/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:40 GMT
+Date = Fri, 16 Jun 2023 11:05:43 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Expires = Fri, 16 Jun 2023 12:05:43 GMT
+Cache-Control = max-age=3600
+code = 301
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = Moved Permanently
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'infobytes.de' (Wichtigkeit der Domäne: 9)...
 (Die exakte Quell-URL lautet: 'https://infobytes.de/pages/it_sicherheit.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:42 GMT
+Date = Fri, 16 Jun 2023 11:05:45 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1198,39 +1204,39 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/it_s
 (Die exakte Quell-URL lautet: 'https://social-media-abc.de/wiki/Crawler')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:43 GMT
+Date = Fri, 16 Jun 2023 11:05:45 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/uploads/tx_isdownload/secure-it-Infodienst_3_03_Hintergrund.pdf' aufzubauen. Der Backlink befindet sich auf: 'it-service.network' (Wichtigkeit der Domäne: 9)...
 (Die exakte Quell-URL lautet: 'https://it-service.network/blog/2017/07/17/vertretungsregelung/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:44 GMT
+Date = Fri, 16 Jun 2023 11:05:46 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'rlp.de' (Wichtigkeit der Domäne: 9)...
 (Die exakte Quell-URL lautet: 'https://www.datenschutz.rlp.de/de/themenfelder-themen/informationsquellen-und-organisationen-zum-thema-it-sicherheit/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:46 GMT
+Date = Fri, 16 Jun 2023 11:05:48 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1246,7 +1252,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://www.cottbus.ihk.de/it-sicherheit.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:48 GMT
+Date = Fri, 16 Jun 2023 11:05:50 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1262,7 +1268,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://blog.ralph-lehmann.de/2011/01/10/iphone-app-vom-institut-fur-internet-sicherheit-der-fh-gelsenkirchen/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:50 GMT
+Date = Fri, 16 Jun 2023 11:05:52 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1278,64 +1284,64 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/fachzeitschri
 (Die exakte Quell-URL lautet: 'https://www.iqsol.biz/news/news-detail/fachmagazin-it-sicherheit-iqsol-geschaeftsfuehrer-im-interview/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:51 GMT
+Date = Fri, 16 Jun 2023 11:05:54 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Link = <http://test.it-sicherheit.de/wp-json/>; rel="https://api.w.org/"
+Link = <http://test.it-sicherheit.de/wp-json/wp/v2/pages/11246>; rel="alternate"; type="application/json"
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/it_sicherheitstipps/tipp/sichere-kommunikation-ueber-das-internet' aufzubauen. Der Backlink befindet sich auf: 'tuxproject.de' (Wichtigkeit der Domäne: 9)...
 (Die exakte Quell-URL lautet: 'https://tuxproject.de/blog/2013/10/schmalhans-tages-hans-peter-uhl-csu/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:52 GMT
+Date = Fri, 16 Jun 2023 11:05:54 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/news/ist-duckduckgo-eine-echte-google-alternative' aufzubauen. Der Backlink befindet sich auf: 'wittgraze.com' (Wichtigkeit der Domäne: 8)...
 (Die exakte Quell-URL lautet: 'https://wittgraze.com/duckduckgo-sicher/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:53 GMT
+Date = Fri, 16 Jun 2023 11:05:54 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/news/ist-duckduckgo-eine-echte-google-alternative' aufzubauen. Der Backlink befindet sich auf: 'loginwebsite.de' (Wichtigkeit der Domäne: 8)...
 (Die exakte Quell-URL lautet: 'https://loginwebsite.de/duckduckgo-sicher/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:54 GMT
+Date = Fri, 16 Jun 2023 11:05:54 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'findmassleads.com' (Wichtigkeit der Domäne: 8)...
@@ -1343,7 +1349,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:46:55 GMT
+Date = Fri, 16 Jun 2023 11:05:54 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -1358,7 +1364,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/chec
 (Die exakte Quell-URL lautet: 'https://www.verbraucher-magazin.net/2013/12/vorsicht-betrugerische-online-shops.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:56 GMT
+Date = Fri, 16 Jun 2023 11:05:55 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1374,7 +1380,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/it_s
 (Die exakte Quell-URL lautet: 'https://www.agitano.com/studie-zum-datenklau-unternehmen-in-falscher-sicherheit-dunkelziffer-hoch-sicherheit-ungenuegend/60530/2')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:57 GMT
+Date = Fri, 16 Jun 2023 11:05:56 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1390,23 +1396,23 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/wirueberuns/i
 (Die exakte Quell-URL lautet: 'https://www.edutags.de/browse?tags=45')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:46:58 GMT
+Date = Fri, 16 Jun 2023 11:05:57 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'deutscher-bildungsserver.de' (Wichtigkeit der Domäne: 5)...
 (Die exakte Quell-URL lautet: 'http://www.deutscher-bildungsserver.de/innovationsportal/zeitschrift-weiterbildung-1-2017-linkempfehlungen-zum-schwerpunkt-digitale-kompetenz-chancen-und-risiken-der-virtuellen-welt--11770-de.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:47:00 GMT
+Date = Fri, 16 Jun 2023 11:05:59 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1422,87 +1428,93 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/news/cybersec
 (Die exakte Quell-URL lautet: 'https://www.crowdstrike.de/news/archiv/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:47:01 GMT
+Date = Fri, 16 Jun 2023 11:05:59 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/news/it-trend-2022-von-cloud-first-zu-cloud-only' aufzubauen. Der Backlink befindet sich auf: 'zscaler.de' (Wichtigkeit der Domäne: 4)...
 (Die exakte Quell-URL lautet: 'https://www.zscaler.de/news/2021')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:47:02 GMT
+Date = Fri, 16 Jun 2023 11:05:59 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'itespresso.de' (Wichtigkeit der Domäne: 4)...
 (Die exakte Quell-URL lautet: 'https://www.itespresso.de/2010/06/30/fachhochschul-institut-fuer-internet-sicherheit-startet-marktplatz-itu/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
+Server = nginx/1.14.1
+Date = Fri, 16 Jun 2023 11:06:01 GMT
+Content-Type = text/html; charset=UTF-8
+Transfer-Encoding = chunked
+Connection = keep-alive
+X-Powered-By = PHP/8.0.28
+Link = <http://test.it-sicherheit.de/wp-json/>; rel="https://api.w.org/"
+Link = <http://test.it-sicherheit.de/wp-json/wp/v2/pages/25>; rel="alternate"; type="application/json"
+code = 200
+mimeType = text/html; charset=UTF-8
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/it_sicherheitstipps/tipp/social-networking-aber-sicher-1/?cHash=f2443fb8020426e58db1a6c6a1b23b94' aufzubauen. Der Backlink befindet sich auf: 'jugendnetz-wetzlar.de' (Wichtigkeit der Domäne: 4)...
 (Die exakte Quell-URL lautet: 'http://www.jugendnetz-wetzlar.de/jnw3/www.jugendnetz-wetzlar.de/jnw3_php/readarticlecdbc.html?article_id=2004')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
+Server = nginx/1.14.1
+Date = Fri, 16 Jun 2023 11:06:02 GMT
+Content-Type = text/html; charset=UTF-8
+Transfer-Encoding = chunked
+Connection = keep-alive
+X-Powered-By = PHP/8.0.28
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
+mimeType = text/html; charset=UTF-8
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/index.php%3Fid=382%26firma_id=2579' aufzubauen. Der Backlink befindet sich auf: 'jobsfrankfurt.net' (Wichtigkeit der Domäne: 4)...
 (Die exakte Quell-URL lautet: 'https://www.jobsfrankfurt.net/f-1arHFQuItcJ-stonesoft_germany_gmbh.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:19 GMT
+Date = Fri, 16 Jun 2023 11:06:02 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/index.php?id=382&firma_id=5' aufzubauen. Der Backlink befindet sich auf: 'piratenpartei-nrw.de' (Wichtigkeit der Domäne: 4)...
 (Die exakte Quell-URL lautet: 'https://fraktion2012.piratenpartei-nrw.de/2013/11/grumpys-lesezeug-vom-14-11-2013/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:20 GMT
+Date = Fri, 16 Jun 2023 11:06:02 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-WPO-Cache-Status = not cached
-WPO-Cache-Message = In the settings, caching is disabled for matches for one of the current request's GET parameters
+Cache-Control = no-cache
+WPO-Cache-Status = cached
 code = 200
 mimeType = text/html; charset=UTF-8
 responseMessage = OK
@@ -1512,7 +1524,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/startseite' a
 (Die exakte Quell-URL lautet: 'https://www.mittelstand-nachrichten.de/technologie/die-top-5-digitalisierung-trends-in-jahr-2018/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:23 GMT
+Date = Fri, 16 Jun 2023 11:06:04 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1528,23 +1540,23 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/startseite/ne
 (Die exakte Quell-URL lautet: 'http://www.ingenieur-hasler.de/2015/01/it-sicherheit-de-jeder-fuenfte-angestellte-veruntreut-unternehmensdaten/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:24 GMT
+Date = Fri, 16 Jun 2023 11:06:05 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'know-now.de' (Wichtigkeit der Domäne: 3)...
 (Die exakte Quell-URL lautet: 'https://know-now.de/branchenbuch-it-sicherheit/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:26 GMT
+Date = Fri, 16 Jun 2023 11:06:07 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1560,7 +1572,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://www.lanline.de/it-security/bsi-schwachstellenampel-jetzt-als-smartphone-app.10396.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:28 GMT
+Date = Fri, 16 Jun 2023 11:06:09 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1577,7 +1589,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:48:28 GMT
+Date = Fri, 16 Jun 2023 11:06:09 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -1592,7 +1604,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews/
 (Die exakte Quell-URL lautet: 'https://botfrei.de/bsi-securitynews-mit-schwachstellenampel/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:28 GMT
+Date = Fri, 16 Jun 2023 11:06:09 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1609,7 +1621,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:48:29 GMT
+Date = Fri, 16 Jun 2023 11:06:09 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -1624,135 +1636,135 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/it_s
 (Die exakte Quell-URL lautet: 'https://www.sicher-im-netz.de/node/1285/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:29 GMT
+Date = Fri, 16 Jun 2023 11:06:10 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/it_sicherheitstipps/tipp/sichere-kommunikation-ueber-das-internet' aufzubauen. Der Backlink befindet sich auf: 'liberale.de' (Wichtigkeit der Domäne: 1)...
 (Die exakte Quell-URL lautet: 'https://www.liberale.de/content/vertraulich-kommunizieren-im-internet')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:30 GMT
+Date = Fri, 16 Jun 2023 11:06:10 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/startseite/news/cyber-gefahr-im-blick-durch-aufbau-eines-security' aufzubauen. Der Backlink befindet sich auf: 'paloaltonetworks.in' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://origin-www.paloaltonetworks.in/company/in-the-news/2014/Keeping-an-eye-on-cyber-risks-with-building-up-a-Security-Operations-Center')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:31 GMT
+Date = Fri, 16 Jun 2023 11:06:10 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews/iframe' aufzubauen. Der Backlink befindet sich auf: 'brifed.de' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://brifed.de/chat')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:32 GMT
+Date = Fri, 16 Jun 2023 11:06:11 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Expires = Fri, 16 Jun 2023 12:06:11 GMT
+Cache-Control = max-age=3600
+code = 301
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = Moved Permanently
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/news/dr-testing-von-tagen-auf-stunden-verkuerzen' aufzubauen. Der Backlink befindet sich auf: 'zerto.com' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://www.zerto.com/in-the-news/cut-dr-testing-from-days-to-hours/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:33 GMT
+Date = Fri, 16 Jun 2023 11:06:11 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/404' aufzubauen. Der Backlink befindet sich auf: 'scs-concept.de' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'http://scs-concept.de/component/weblinks/weblink/146-andere-quellen/25-marktplatz-it-sicherheit.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:34 GMT
+Date = Fri, 16 Jun 2023 11:06:13 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Link = <http://test.it-sicherheit.de/wp-json/>; rel="https://api.w.org/"
+Link = <http://test.it-sicherheit.de/wp-json/wp/v2/pages/25>; rel="alternate"; type="application/json"
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/404' aufzubauen. Der Backlink befindet sich auf: 'paloaltonetworks.sg' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://origin-www.paloaltonetworks.sg/company/in-the-news/2014/Keeping-an-eye-on-cyber-risks-with-building-up-a-Security-Operations-Center')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:35 GMT
+Date = Fri, 16 Jun 2023 11:06:16 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Link = <http://test.it-sicherheit.de/wp-json/>; rel="https://api.w.org/"
+Link = <http://test.it-sicherheit.de/wp-json/wp/v2/pages/25>; rel="alternate"; type="application/json"
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/news/solide-sicherheitsstrategie-auf-dem-weg-in-die-cloud' aufzubauen. Der Backlink befindet sich auf: 'paloaltonetworks.co.uk' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://origin-www.paloaltonetworks.co.uk/company/in-the-news/2019/solide-sicherheitsstrategie-auf-dem-weg-in-die-cloud')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:36 GMT
+Date = Fri, 16 Jun 2023 11:06:16 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'data-systems-net.de' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'http://data-systems-net.de/index.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:38 GMT
+Date = Fri, 16 Jun 2023 11:06:18 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1768,55 +1780,55 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/it_s
 (Die exakte Quell-URL lautet: 'https://www.zdnet.de/88218499/cybercrime-aktuelle-trends-und-empfehlenswerte-praeventionsmassnahmen/?PageSpeed=noscript')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:39 GMT
+Date = Fri, 16 Jun 2023 11:06:18 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews' aufzubauen. Der Backlink befindet sich auf: 'tv-brandl.de' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://tv-brandl.de/index.php/it-security')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:40 GMT
+Date = Fri, 16 Jun 2023 11:06:18 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews' aufzubauen. Der Backlink befindet sich auf: 'if-is.net' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'http://if-is.net/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:41 GMT
+Date = Fri, 16 Jun 2023 11:06:19 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'motzkg.de' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://www.motzkg.de/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:43 GMT
+Date = Fri, 16 Jun 2023 11:06:21 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1832,7 +1844,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'http://wissenschaftler.de/news/item/4615-eine-kostenlose-app-f%C3%BCr-mehr-datensicherheit')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:48:45 GMT
+Date = Fri, 16 Jun 2023 11:06:23 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1849,7 +1861,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:48:45 GMT
+Date = Fri, 16 Jun 2023 11:06:23 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -1865,7 +1877,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:48:46 GMT
+Date = Fri, 16 Jun 2023 11:06:23 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -1881,7 +1893,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:48:46 GMT
+Date = Fri, 16 Jun 2023 11:06:23 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -1897,7 +1909,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:48:46 GMT
+Date = Fri, 16 Jun 2023 11:06:24 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -1911,21 +1923,24 @@ responseMessage = Temporary Redirect
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/startseite' aufzubauen. Der Backlink befindet sich auf: 'logistikwelt24.de' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://www.logistikwelt24.de/firma/ibv-informatik-gmbh/84031/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
+Server = nginx/1.14.1
+Date = Fri, 16 Jun 2023 11:06:26 GMT
+Content-Type = text/html; charset=UTF-8
+Transfer-Encoding = chunked
+Connection = keep-alive
+X-Powered-By = PHP/8.0.28
+Link = <http://test.it-sicherheit.de/wp-json/>; rel="https://api.w.org/"
+Link = <http://test.it-sicherheit.de/wp-json/wp/v2/pages/25>; rel="alternate"; type="application/json"
+code = 200
+mimeType = text/html; charset=UTF-8
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'websitedetection.com' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://websitedetection.com/web-site-list-7220')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Location = https://it-sicherheit.de:443/
-Date = Thu, 15 Jun 2023 10:49:25 GMT
+Date = Fri, 16 Jun 2023 11:06:26 GMT
 Content-Length = 5
 Content-Type = text/plain; charset=utf-8
 null = null
@@ -1940,21 +1955,24 @@ responseMessage = Found
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'deutsche-apps.de' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://www.deutsche-apps.de/2014/02/10/kostenlose-sicherheits-app-mit-neuesten-news-zu-schwachstellen-programmen/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
+Server = nginx/1.14.1
+Date = Fri, 16 Jun 2023 11:06:28 GMT
+Content-Type = text/html; charset=UTF-8
+Transfer-Encoding = chunked
+Connection = keep-alive
+X-Powered-By = PHP/8.0.28
+Link = <http://test.it-sicherheit.de/wp-json/>; rel="https://api.w.org/"
+Link = <http://test.it-sicherheit.de/wp-json/wp/v2/pages/25>; rel="alternate"; type="application/json"
+code = 200
+mimeType = text/html; charset=UTF-8
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'websitestatistic.com' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://websitestatistic.com/domain/teletrust.de')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:05 GMT
+Date = Fri, 16 Jun 2023 11:06:30 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1970,7 +1988,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://www.mso-marketing.de/jobboersen-branchenspezifisch/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:07 GMT
+Date = Fri, 16 Jun 2023 11:06:33 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -1986,23 +2004,23 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/stellenanzeig
 (Die exakte Quell-URL lautet: 'https://www.vesterling.com/it-stellen-und-it-stellenmarkt/?func=cartAdd&product_id=\\\'&cHash=b19365f15529ffda02e32d350e4480e3')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:08 GMT
+Date = Fri, 16 Jun 2023 11:06:33 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'idw-online.de' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://idw-online.de/de/news?print=1&id=572804')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:10 GMT
+Date = Fri, 16 Jun 2023 11:06:35 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2031,16 +2049,16 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/security' auf
 (Die exakte Quell-URL lautet: 'https://www.energietechnik-hwk.de/artikel/it-sicherheit-im-handwerk-78,3412,5547.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:11 GMT
+Date = Fri, 16 Jun 2023 11:06:37 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Link = <http://test.it-sicherheit.de/wp-json/>; rel="https://api.w.org/"
+Link = <http://test.it-sicherheit.de/wp-json/wp/v2/pages/25>; rel="alternate"; type="application/json"
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://www.handwerk.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'elo-obb.de' (Wichtigkeit der Domäne: 0)...
@@ -2060,55 +2078,55 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/startseite/ne
 (Die exakte Quell-URL lautet: 'http://www.lohra-wiki.de/index.php5?title=IT-Sicherheit&diff=12324&oldid=12317')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:12 GMT
+Date = Fri, 16 Jun 2023 11:06:38 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/startseite/news/jeder-fuenfte-angestellte-veruntreut-unternehmensd' aufzubauen. Der Backlink befindet sich auf: 'lippedv.de' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://www.lippedv.de/unternehmen/it-blog/47-jeder-5-angestellte-veruntreut-unternehmensdaten')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:13 GMT
+Date = Fri, 16 Jun 2023 11:06:38 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/startseite/news/unternehmen-sind-nur-unzureichend-auf-it-sicherhei' aufzubauen. Der Backlink befindet sich auf: 'certitex.eu' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'http://www.certitex.eu/wb/index.php')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:14 GMT
+Date = Fri, 16 Jun 2023 11:06:38 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'know-now.de' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://dev.know-now.de/branchenbuch-it-sicherheit/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:16 GMT
+Date = Fri, 16 Jun 2023 11:06:40 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2124,48 +2142,48 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews/
 (Die exakte Quell-URL lautet: 'http://mail.secuteach.de/security-ticker.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:17 GMT
+Date = Fri, 16 Jun 2023 11:06:41 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/news/dateilose-malware-ist-grenzenlos' aufzubauen. Der Backlink befindet sich auf: 'pc-sicherheit.net' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://pc-sicherheit.net/viewtopic.php?p=149532')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:18 GMT
+Date = Fri, 16 Jun 2023 11:06:41 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/it_sicherheitstipps/tipp/zahlungsmethoden-fuers-online-shopping-im-ueberbl' aufzubauen. Der Backlink befindet sich auf: 'ulm-news.de' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://www.ulm-news.de/weblog/ulm-news/view/dt/3/article/55008/Online-Casinos_-ndash-_worauf_Anf-auml-nger_achten_sollten.html/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:19 GMT
+Date = Fri, 16 Jun 2023 11:06:41 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'rankwebdirectory.com' (Wichtigkeit der Domäne: 0)...
@@ -2173,7 +2191,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:50:19 GMT
+Date = Fri, 16 Jun 2023 11:06:41 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -2189,7 +2207,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:50:19 GMT
+Date = Fri, 16 Jun 2023 11:06:42 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -2205,7 +2223,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:50:20 GMT
+Date = Fri, 16 Jun 2023 11:06:42 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -2220,13 +2238,13 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/index.php?id=
 (Die exakte Quell-URL lautet: 'https://dump.utzer.de/piratenmirror/archiv/PiratenfraktionNRW/www.piratenfraktion-nrw.de/2013/11/grumpys-lesezeug-vom-14-11-2013/index.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:21 GMT
+Date = Fri, 16 Jun 2023 11:06:42 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-WPO-Cache-Status = not cached
-WPO-Cache-Message = In the settings, caching is disabled for matches for one of the current request's GET parameters
+Cache-Control = no-cache
+WPO-Cache-Status = cached
 code = 200
 mimeType = text/html; charset=UTF-8
 responseMessage = OK
@@ -2236,23 +2254,23 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/it_s
 (Die exakte Quell-URL lautet: 'https://www.kleveblog.de/stadt-kleve-engagiert-staranwalt-ralf-hocker/?order=asc')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:22 GMT
+Date = Fri, 16 Jun 2023 11:06:42 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'biboxs.com' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://biboxs.com/?p=segelschule sempachersee  rund ums thema segeln.')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Location = https://it-sicherheit.de:443/
-Date = Thu, 15 Jun 2023 10:50:22 GMT
+Date = Fri, 16 Jun 2023 11:06:43 GMT
 Content-Length = 5
 Content-Type = text/plain; charset=utf-8
 null = null
@@ -2269,7 +2287,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:50:22 GMT
+Date = Fri, 16 Jun 2023 11:06:43 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -2285,7 +2303,7 @@ Es wird versucht eine Verbindung mit 'https://it-sicherheit.de/' aufzubauen. Der
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Content-Length = 0
 Content-Type = text/html; charset=UTF-8
-Date = Thu, 15 Jun 2023 10:50:22 GMT
+Date = Fri, 16 Jun 2023 11:06:43 GMT
 Location = http://it-sicherheit.de/startseite/
 Server = Apache/2.4.10 (Debian)
 X-Powered-By = PHP/7.1.13
@@ -2300,39 +2318,39 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/startseite/ne
 (Die exakte Quell-URL lautet: 'http://www.wiesbadener-kreis.de/?m=20141208')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:23 GMT
+Date = Fri, 16 Jun 2023 11:06:43 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews/securitynews_auf_ihrer_website' aufzubauen. Der Backlink befindet sich auf: 'hedwig-gerling.de' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://hedwig-gerling.de/archives/cat_awareness.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:24 GMT
+Date = Fri, 16 Jun 2023 11:06:43 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'crosswater-job-guide.com' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://crosswater-job-guide.com/jobboersen_verzeichnis_011_it/jboards_view.php?editid1=1848')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:26 GMT
+Date = Fri, 16 Jun 2023 11:06:45 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2348,23 +2366,23 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/it_s
 (Die exakte Quell-URL lautet: 'https://www.audi4ever.com/blog/eintrag/26749-blog/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:27 GMT
+Date = Fri, 16 Jun 2023 11:06:46 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'itisok.at' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://itisok.at/2015/12/10/links-links-und-nochmals-links/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:29 GMT
+Date = Fri, 16 Jun 2023 11:06:48 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2380,7 +2398,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/index.php?id=
 (Die exakte Quell-URL lautet: 'http://incotech.cloud/component/content/frontpage')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:31 GMT
+Date = Fri, 16 Jun 2023 11:06:49 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2396,145 +2414,151 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/stellenangebo
 (Die exakte Quell-URL lautet: 'https://www.stepstone.de/e-recruiting/en/cooperation-partner/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:32 GMT
+Date = Fri, 16 Jun 2023 11:06:49 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/profil/profil_kontakt/Kaspersky Labs GmbH/?no_cache=1' aufzubauen. Der Backlink befindet sich auf: 'hide.me' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://community.hide.me/threads/kaspersky-total-security-2015.1885/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:33 GMT
+Date = Fri, 16 Jun 2023 11:06:50 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/securitynews/securitynews-auf-ihrer-website/?L=0' aufzubauen. Der Backlink befindet sich auf: 'secuteach.de' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://www.secuteach.de/security-ticker.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:50:34 GMT
+Date = Fri, 16 Jun 2023 11:06:50 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/news/ist-duckduckgo-eine-echte-google-alternative' aufzubauen. Der Backlink befindet sich auf: 'logininvestments.com' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://logininvestments.com/duckduckgo-sicher/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
+Server = nginx/1.14.1
+Date = Fri, 16 Jun 2023 11:06:50 GMT
+Content-Type = text/html; charset=UTF-8
+Transfer-Encoding = chunked
+Connection = keep-alive
+X-Powered-By = PHP/8.0.28
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
+mimeType = text/html; charset=UTF-8
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/it_sicherheitstipps/tipp/webseiten-sicher-betreiben' aufzubauen. Der Backlink befindet sich auf: 'trendyone.de' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://www.trendyone.de/news/online-durchstarten-drei-wege-zur-eigenen-homepage')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
-null = null
+Server = nginx/1.14.1
+Date = Fri, 16 Jun 2023 11:06:50 GMT
+Content-Type = text/html; charset=UTF-8
+Transfer-Encoding = chunked
+Connection = keep-alive
+X-Powered-By = PHP/8.0.28
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
+mimeType = text/html; charset=UTF-8
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/news/ist-duckduckgo-eine-echte-google-alternative' aufzubauen. Der Backlink befindet sich auf: 'loginissue.de' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://loginissue.de/courses/duckduckgo-sicher/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:51:51 GMT
+Date = Fri, 16 Jun 2023 11:06:51 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/news/ist-duckduckgo-eine-echte-google-alternative' aufzubauen. Der Backlink befindet sich auf: 'loginissue.cl' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://www.loginissue.cl/duckduckgo-sicher/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:51:52 GMT
+Date = Fri, 16 Jun 2023 11:06:51 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/anbieter_registrierung/preise_und_leistungsbeschreibungen' aufzubauen. Der Backlink befindet sich auf: 'buttlerben.com' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'http://buttlerben.com/english/blog/agb/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:51:53 GMT
+Date = Fri, 16 Jun 2023 11:06:52 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Link = <http://test.it-sicherheit.de/wp-json/>; rel="https://api.w.org/"
+Link = <http://test.it-sicherheit.de/wp-json/wp/v2/pages/10664>; rel="alternate"; type="application/json"
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/news/ist-duckduckgo-eine-echte-google-alternative' aufzubauen. Der Backlink befindet sich auf: 'logincolleagues.com' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://logincolleagues.com/duckduckgo-sicher/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:51:54 GMT
+Date = Fri, 16 Jun 2023 11:06:53 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen. Der Backlink befindet sich auf: 'keist-support.ch' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'http://keist-support.ch/homepage1/1digital-news.htm')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:51:56 GMT
+Date = Fri, 16 Jun 2023 11:06:55 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2550,7 +2574,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://www.jura.uni-saarland.de/der-marktplatz-itaesicherheit/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:51:58 GMT
+Date = Fri, 16 Jun 2023 11:06:57 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2566,7 +2590,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://en.seokicks.de/backlinks/www.internet-guetesiegel.de')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:52:00 GMT
+Date = Fri, 16 Jun 2023 11:06:59 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2582,7 +2606,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://www.sitelike.org/similar/careercenter-jobs.de/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:52:02 GMT
+Date = Fri, 16 Jun 2023 11:07:02 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2598,7 +2622,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://anewstip.com/search/outlets/?q=name:IT-Sicherheit/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:52:04 GMT
+Date = Fri, 16 Jun 2023 11:07:04 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2614,7 +2638,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/secu
 (Die exakte Quell-URL lautet: 'https://alt.rgi.net/unternehmen/datenschutz-news/beitrag/kritische-luecken-in-mac-osx-geschlossen.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:52:05 GMT
+Date = Fri, 16 Jun 2023 11:07:05 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2630,7 +2654,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://www.perspektive-mittelstand.de/Neue-iPhone-App-sorgt-fuer-mehr-Sicherheit-im-Internet/pressemitteilung/38280.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:52:07 GMT
+Date = Fri, 16 Jun 2023 11:07:07 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2646,7 +2670,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/chec
 (Die exakte Quell-URL lautet: 'https://www.wasserburg24.de/netzwelt/ausser-kontrolle-so-reagieren-opfer-von-hackern-richtig-zr-5045427.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:52:08 GMT
+Date = Fri, 16 Jun 2023 11:07:08 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2662,7 +2686,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/index.php?id=
 (Die exakte Quell-URL lautet: 'https://lnn.de/sicherheit-2.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:52:10 GMT
+Date = Fri, 16 Jun 2023 11:07:09 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2678,23 +2702,23 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/news/european
 (Die exakte Quell-URL lautet: 'https://trojanerinfo.de/business-security/aktuell/europaeische-cyber-security-organisation-gegruendet.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:52:11 GMT
+Date = Fri, 16 Jun 2023 11:07:09 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/checklisten_it_sicherheit' aufzubauen. Der Backlink befindet sich auf: 'hna.de' (Wichtigkeit der Domäne: 0)...
 (Die exakte Quell-URL lautet: 'https://www.hna.de/netzwelt/multimedia/ausser-kontrolle-so-reagieren-opfer-von-hackern-richtig-zr-5045427.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:52:11 GMT
+Date = Fri, 16 Jun 2023 11:07:10 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2710,7 +2734,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/it_s
 (Die exakte Quell-URL lautet: 'https://cf.frontend.onecms.idg.zone/a/selbst-schuld,3327016')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:52:13 GMT
+Date = Fri, 16 Jun 2023 11:07:11 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2726,7 +2750,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://www.onlinepc.ch/mobile/apps/securitynews-gratis-sicherheits-app-mit-schwachstellenampel-371940.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:52:15 GMT
+Date = Fri, 16 Jun 2023 11:07:13 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2742,7 +2766,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://www.com-magazin.de/news/sicherheit/gratis-sicherheits-app-mit-schwachstellenampel-65654.html')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:52:17 GMT
+Date = Fri, 16 Jun 2023 11:07:15 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2758,7 +2782,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/' aufzubauen.
 (Die exakte Quell-URL lautet: 'https://beratung.de/u/dubois-it-consulting-gmbh_eamkpe')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:52:19 GMT
+Date = Fri, 16 Jun 2023 11:07:17 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2774,7 +2798,7 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/ratgeber/chec
 (Die exakte Quell-URL lautet: 'https://www.youngdata.de/was-gibts-in-deiner-naehe/rheinland-pfalz/schuelerworkshops/unterrichtsmodul-ab-klasse-8/')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:52:20 GMT
+Date = Fri, 16 Jun 2023 11:07:18 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
@@ -2790,22 +2814,22 @@ Es wird versucht eine Verbindung mit 'http://test.it-sicherheit.de/startseite/ne
 (Die exakte Quell-URL lautet: 'https://chrea.de/wordpress/?p=797')
 akutelles Zeitüberschreitungslimit: 5000 Millisekunden
 Server = nginx/1.14.1
-Date = Thu, 15 Jun 2023 10:52:21 GMT
+Date = Fri, 16 Jun 2023 11:07:19 GMT
 Content-Type = text/html; charset=UTF-8
 Transfer-Encoding = chunked
 Connection = keep-alive
 X-Powered-By = PHP/8.0.28
-Expires = Wed, 11 Jan 1984 05:00:00 GMT
-Cache-Control = no-cache, must-revalidate, max-age=0
-code = 404
+Cache-Control = no-cache
+WPO-Cache-Status = cached
+code = 200
 mimeType = text/html; charset=UTF-8
-responseMessage = Not Found
+responseMessage = OK
 
 -----------------------------
 Folgende Anwort-Codes wurden gefunden: (Gesamt-Anzahl der Backlinks: 177)
 Antwort-Code: 307, Anzahl : 23 (12,99%)
-Antwort-Code: 404, Anzahl : 83 (46,89%)
-Antwort-Code: 200, Anzahl : 57 (32,2%)
-Antwort-Code: 504, Anzahl : 10 (5,65%)
-Antwort-Code: 301, Anzahl : 2 (1,13%)
+Antwort-Code: 404, Anzahl : 10 (5,65%)
+Antwort-Code: 200, Anzahl : 129 (72,88%)
+Antwort-Code: 504, Anzahl : 2 (1,13%)
+Antwort-Code: 301, Anzahl : 11 (6,21%)
 Antwort-Code: 302, Anzahl : 2 (1,13%)
